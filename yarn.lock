@@ -3759,10 +3759,10 @@ damerau-levenshtein@^1.0.6:
   resolved "https://registry.yarnpkg.com/damerau-levenshtein/-/damerau-levenshtein-1.0.7.tgz#64368003512a1a6992593741a09a9d31a836f55d"
   integrity sha512-VvdQIPGdWP0SqFXghj79Wf/5LArmreyMsGLa6FG6iC4t3j7j5s71TrwWmT/4akbDQIqjfACkLZmjXhA7g2oUZw==
 
-darass-react@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/darass-react/-/darass-react-1.0.6.tgz#0f856f3c232d32f7035bebdf0d07fa42d5703bc4"
-  integrity sha512-D4PNfZpcowWFs+1rez9282K4Hch629x8DbJd3l5JQ4w3TIbi/c3axjakOkFegJGyvbGDgfZ+aYPj7m7dTgvjXw==
+darass-react@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/darass-react/-/darass-react-1.0.7.tgz#870c834ba9f01fb0dd12cf00d7f2599c20987102"
+  integrity sha512-yNVqpI46WwwvWLT83z+DIq6tb5oT+PBN7J9T7QIgCsArMOlURDEZwvei+MUjuuvT8DrRNXXRdBb0K/3dMifapA==
 
 dataloader@2.0.0:
   version "2.0.0"
