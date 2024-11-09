@@ -25,6 +25,7 @@
     "gatsby-plugin-image": "^3.13.0",
     "gatsby-plugin-manifest": "^5.13.0",
     "gatsby-plugin-mdx": "^5.13.0",
+    "gatsby-plugin-pnpm": "^1.2.10",
     "gatsby-plugin-sharp": "^5.13.0",
     "gatsby-plugin-sitemap": "^6.13.0",
     "gatsby-plugin-vanilla-extract": "^4.0.1",
@@ -40,5 +41,10 @@
     "@types/react-dom": "^18.2.6",
     "gh-pages": "^6.1.1",
     "typescript": "^5.1.6"
+  },
+  "overrides": {
+    "babel-plugin-lodash": {
+      "@babel/types": "~7.20.0"
+    }
   }
 }
