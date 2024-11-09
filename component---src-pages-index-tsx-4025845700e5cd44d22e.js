@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoni_log=self.webpackChunkgoni_log||[]).push([[691],{3022:function(e,t,n){n.r(t),n.d(t,{Head:function(){return a}});var l=n(959);t.default=e=>{let{data:t,location:n}=e;return l.createElement("div",null,"메인 페지")};const a=()=>l.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-4025845700e5cd44d22e.js.map
